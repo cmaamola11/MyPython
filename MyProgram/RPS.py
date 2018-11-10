@@ -1,4 +1,5 @@
-'''the program should do the following:
+''' ROCK PAPER SCISSORS
+the program should do the following:
 
 Prompt the user to select either Rock, Paper, or Scissors.
 Instruct the computer to randomly select either Rock, Paper, or Scissors.
